@@ -10,5 +10,5 @@ This is a plan about the learning of algorithm
 - **task**：Leetcode
 
 ## Pytorch basic
--**last**：4.7-5.7*暂定
--**task**：reading first*暂定
+-**last**：4.7-5.7* 暂定
+-**task**：reading first* 暂定
